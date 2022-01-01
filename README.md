@@ -1,6 +1,6 @@
 Contact info: graham.scott.beech@gmail.com (graham) and erol1@stolaf.edu (besna)
 
-~{User Manual: Data Retrieval & Storage Project}~
+{User Manual: Data Retrieval & Storage Project}
 
 ~ Program Description ~
   The purpose of this program is to locate, retrieve, and store specific HTML data from many pages of a website when provided with only one url. The location of HTML data within a website is specific to only that website. For this reason our program only functions on one site: http://books.toscrape.com, a website with liberal robots.txt policies made specifically for web scraping projects. Yet much of this code is transferable to other sites, provided that relatively small adjustments are made.
